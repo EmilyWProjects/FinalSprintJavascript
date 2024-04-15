@@ -1,0 +1,55 @@
+[
+    {
+      "fname": "Zelda",
+      "lname": "Highrule",
+      "employer": "Labrador Chocolate Company",
+      "birthday": "1/30/1994",
+      "position": "manager",
+      "order": "large black coffee with no sugar"
+    },
+
+    {
+      "fname": "Scott",
+      "lname": "Fitzpatrick",
+      "employer": "Air America Travel Company",
+      "birthday": "2/14/1971",
+      "position": "CEO",
+      "order": "extra large coffee double double"
+    },
+
+    {
+      "fname": "Norman",
+      "lname": "Bateson",
+      "employer": "Southern Deflections Clothing",
+      "birthday": "12/9/2000",
+      "position": "cashier",
+      "order": "bottle of orange juice"
+    },
+
+    {
+      "fname": "Mario",
+      "lname": "Plumber",
+      "employer": "The Wilderness Golf Resorts",
+      "birthday": "8/20/1990",
+      "position": "supervisor",
+      "order": "small tea with one cream"
+    },
+
+    {
+      "fname": "Darius",
+      "lname": "Flowers",
+      "employer": "Victor's Gossip Undergarments",
+      "birthday": "8/15/1985",
+      "position": "CFO",
+      "order": "medium hot chocolate with two cream"
+    },
+    
+    {
+      "fname": "Jack",
+      "lname": "Utonium",
+      "employer": "Winterfield Nuclear",
+      "birthday": "6/22/1989",
+      "position": "lawyer",
+      "order": "small carton of milk"
+    }
+  ]
